@@ -1,4 +1,4 @@
 # FikraClinic
 Prescription Project
 
-You Can See it live at : https://different-war.surge.sh
+You Can See it live at : http://useful-table.surge.sh/
