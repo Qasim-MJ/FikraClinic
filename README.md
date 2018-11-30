@@ -1,4 +1,4 @@
 # FikraClinic
 Prescription Project
 
-You Can See it live at : http://useful-table.surge.sh/
+You Can See it live at : http://literate-star.surge.sh
